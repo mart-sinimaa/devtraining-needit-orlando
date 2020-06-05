@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
-        <applet_launcher display_value="My NeedIt">77722888dbd110106e3af28239961945</applet_launcher>
+        <applet_launcher/>
         <order>20</order>
         <section display_value="Future">07e2a488dbd110106e3af282399619fa</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>

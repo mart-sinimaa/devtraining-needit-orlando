@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
-        <applet_launcher/>
-        <order>30</order>
-        <section display_value="Past">8403600cdbd110106e3af28239961999</section>
+        <applet_launcher display_value="NeedIt">df42b01cdb5d10106e3af282399619e9</applet_launcher>
+        <order>20</order>
+        <section display_value="Future">a982741cdb5d10106e3af28239961916</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-04 13:01:02</sys_created_on>
-        <sys_id>8403600cdbd110106e3af2823996199b</sys_id>
+        <sys_created_on>2020-06-05 08:47:19</sys_created_on>
+        <sys_id>6982741cdb5d10106e3af28239961918</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_sg_applet_launcher_m2m_section_8403600cdbd110106e3af2823996199b</sys_update_name>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_6982741cdb5d10106e3af28239961918</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-04 13:01:02</sys_updated_on>
+        <sys_updated_on>2020-06-05 08:47:19</sys_updated_on>
     </sys_sg_applet_launcher_m2m_section>
 </record_update>

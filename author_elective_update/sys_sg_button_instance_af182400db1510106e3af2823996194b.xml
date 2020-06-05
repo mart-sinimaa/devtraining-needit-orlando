@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">ab186000db1510106e3af28239961912</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">e3186000db1510106e3af28239961910</icon>
+        <label>NeedIt Launcher Button Instance</label>
+        <location>top</location>
+        <name>NeedIt Launcher Button Instance</name>
+        <order/>
+        <parent>77722888dbd110106e3af28239961945</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-04 13:23:23</sys_created_on>
+        <sys_id>af182400db1510106e3af2823996194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Launcher Button Instance</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_af182400db1510106e3af2823996194b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-04 13:23:23</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=af182400db1510106e3af2823996194b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>da5b5b34db35df041ddcf22ebf96197a</instance_id>
+        <instance_name>dev57790</instance_name>
+        <name>sys_sg_button_instance_af182400db1510106e3af2823996194b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">ab186000db1510106e3af28239961912</button><color_theme>primary</color_theme><description/><field_name/><icon display_value="User Icon">e3186000db1510106e3af28239961910</icon><label>NeedIt Launcher Button Instance</label><location>top</location><name>NeedIt Launcher Button Instance</name><order/><parent>77722888dbd110106e3af28239961945</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-04 13:23:23</sys_created_on><sys_id>af182400db1510106e3af2823996194b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Launcher Button Instance</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_button_instance_af182400db1510106e3af2823996194b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-04 13:23:23</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=af182400db1510106e3af2823996194b"/></record_update>]]></payload>
+        <payload_hash>1101400655</payload_hash>
+        <record_name>NeedIt Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>a4ed9cc4dbd110106e3af2823996191e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-04 13:23:23</sys_created_on>
+        <sys_id>23182400db1510106e3af2823996194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1727f8023be0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-04 13:23:23</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>6b182400c6151010a864830edd76a74e</update_guid>
+        <update_guid_history>6b182400c6151010a864830edd76a74e:1101400655</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-05 08:38:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>26c086eef8fb4fe488a675659118d390</sys_id>
+        <sys_metadata>af182400db1510106e3af2823996194b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Launcher Button Instance</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_af182400db1510106e3af2823996194b</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_af182400db1510106e3af2823996194b">23182400db1510106e3af2823996194f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-05 08:38:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

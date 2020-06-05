@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="DELETE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button display_value="NeedIt Launcher Button Instance">c790b4d8db5d10106e3af282399619a3</header_button>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>NeedIt</name>
+        <required_roles/>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-04 12:58:50</sys_created_on>
+        <sys_id>77722888dbd110106e3af28239961945</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>My NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_77722888dbd110106e3af28239961945</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-05 08:38:58</sys_updated_on>
+        <title>My NeedIt</title>
+    </sys_sg_applet_launcher>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>da5b5b34db35df041ddcf22ebf96197a</instance_id>
+        <instance_name>dev57790</instance_name>
+        <name>sys_sg_applet_launcher_77722888dbd110106e3af28239961945</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher"><sys_sg_applet_launcher action="INSERT_OR_UPDATE"><active>true</active><available_offline>false</available_offline><header_button display_value="NeedIt Launcher Button Instance">c790b4d8db5d10106e3af282399619a3</header_button><header_titles/><hide_empty_sections>true</hide_empty_sections><name>NeedIt</name><required_roles/><search_config/><sys_class_name>sys_sg_applet_launcher</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-04 12:58:50</sys_created_on><sys_id>77722888dbd110106e3af28239961945</sys_id><sys_mod_count>6</sys_mod_count><sys_name>My NeedIt</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_applet_launcher_77722888dbd110106e3af28239961945</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-05 08:38:58</sys_updated_on><title>My NeedIt</title></sys_sg_applet_launcher></record_update>]]></payload>
+        <payload_hash>-329678498</payload_hash>
+        <record_name>My NeedIt</record_name>
+        <reverted_from/>
+        <source>a4ed9cc4dbd110106e3af2823996191e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-05 08:38:58</sys_created_on>
+        <sys_id>4f90b4d8db5d10106e3af282399619a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17283a21aac0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-05 08:38:58</sys_updated_on>
+        <type>Applet Launcher</type>
+        <update_guid>4790b4d84d5d10107935885174959ca7</update_guid>
+        <update_guid_history>4790b4d84d5d10107935885174959ca7:-329678498,9160f0d8945d10109727f054028335f6:-1128266915,9160f0d8945d10109727f054028335f6:-1128266915,d160f0d8945d10109acbd2d9094ba2a6:0,b3182400b3151010f6f474acb7a78351:-586984692,3772288818d11010248b54e57c73e547:-1805038781</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-05 08:45:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher">sys_sg_applet_launcher</sys_db_object>
+        <sys_id>3fb1a0d075664010933315fc27eadd09</sys_id>
+        <sys_metadata>77722888dbd110106e3af28239961945</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_77722888dbd110106e3af28239961945</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_77722888dbd110106e3af28239961945">4f90b4d8db5d10106e3af282399619a7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-05 08:45:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
